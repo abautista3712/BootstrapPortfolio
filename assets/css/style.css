@@ -1,3 +1,4 @@
+/* Sticky Footer */
 html,
 body {
   height: 100%;
@@ -11,18 +12,22 @@ body {
   flex-shrink: none;
 }
 
+/* Navigation Bar */
 .NavBar {
+  border-bottom: solid #ccc;
   background-color: aqua;
+  color: #fff;
 }
 
 .NameBox {
-  background-color: blue;
+  background-color: #4aaaa5;
 }
 
 .LinksBox {
   background-color: chartreuse;
 }
 
+/* Content */
 .ContentTop {
   margin-top: 3%;
 }
