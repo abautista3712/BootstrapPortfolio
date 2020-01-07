@@ -23,6 +23,10 @@ body {
   background-color: chartreuse;
 }
 
-.ContentRow1 {
+.ContentTop {
+  margin-top: 3%;
+}
+
+.MainContent {
   background-color: cornflowerblue;
 }
