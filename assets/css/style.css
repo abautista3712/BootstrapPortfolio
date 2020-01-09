@@ -64,6 +64,7 @@ a:hover {
 .Background {
   height: fit-content;
   padding-top: 3%;
+  padding-bottom: 3%;
   background: url(../images/spikes.png);
 }
 
