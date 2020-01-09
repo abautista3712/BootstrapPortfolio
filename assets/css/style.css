@@ -15,12 +15,19 @@ body {
 /* Navigation Bar */
 .NavBar {
   border-bottom: solid #ccc;
-  background-color: aqua;
-  color: #fff;
+  background-color: #fff;
 }
 
 .NameBox {
+  align-items: center;
+  justify-content: center;
   background-color: #4aaaa5;
+}
+
+h1 {
+  margin: 0;
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  color: #fff;
 }
 
 .LinksBox {
@@ -31,12 +38,13 @@ body {
 
 a {
   text-decoration: none;
-  color: #fff;
+  font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+  color: #aeaab4;
 }
 
 a:hover {
   text-decoration: none;
-  color: #fff;
+  color: #aeaab4;
 }
 
 .LinkAbout {
