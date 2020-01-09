@@ -64,11 +64,14 @@ a:hover {
   padding: 0px;
 }
 
-/* Content */
-.ContentTop {
-  margin-top: 3%;
+/* Background Image */
+.Background {
+  height: 100vh;
+  padding-top: 3%;
+  background: url(../images/spikes.png);
 }
 
+/* Content */
 .MainContent {
   background-color: cornflowerblue;
 }
