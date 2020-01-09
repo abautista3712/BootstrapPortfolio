@@ -1,17 +1,3 @@
-/* Sticky Footer */
-html,
-body {
-  height: 100%;
-}
-
-#page-content {
-  flex: 1 0 auto;
-}
-
-#sticky-footer {
-  flex-shrink: none;
-}
-
 /* Navigation Bar */
 .NavBar {
   border-bottom: solid #ccc;
@@ -74,4 +60,22 @@ a:hover {
 /* Content */
 .MainContent {
   background-color: cornflowerblue;
+}
+
+/* Sticky Footer */
+html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+  border-top: 8px solid #4aaaa5;
+  padding: 20px 0px;
+  background-color: #666666;
+  color: #a8ada8;
 }
