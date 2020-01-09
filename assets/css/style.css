@@ -68,15 +68,16 @@ h2 {
   color: #4aaaa5;
 }
 
-.MainContent {
-  margin: 25px auto;
-  height: min-content;
+.MainContentBox {
   border-style: solid;
   border-color: #dddddd;
   background-color: #fff;
   color: #777;
-  padding: 20px;
   font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.BioTop {
+  margin-top: 10px;
 }
 
 /* Sticky Footer */
