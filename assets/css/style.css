@@ -91,13 +91,15 @@ h2 {
 }
 
 #ProfilePic {
-  padding: 0px 20px;
-  height: 100%;
+  margin-left: 5px;
+  padding: 0px 20px 0px 0px;
+  height: auto;
   width: 100%;
 }
 
-#pRight {
-  padding: 0px 20px 20px 0px;
+#Bio {
+  margin: 0px 15px 20px 5px;
+  padding: 0px 0px;
 }
 
 #sticky-footer {
