@@ -24,7 +24,36 @@ body {
 }
 
 .LinksBox {
-  background-color: chartreuse;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.LinkAbout {
+  text-align: center;
+  padding: 0px;
+}
+
+.LinkPortfolio {
+  text-align: center;
+  border-right: solid;
+  border-left: solid;
+  padding: 0px;
+}
+
+.LinkContact {
+  text-align: center;
+  padding: 0px;
 }
 
 /* Content */
