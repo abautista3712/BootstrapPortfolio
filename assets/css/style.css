@@ -62,6 +62,7 @@ a:hover {
 
 /* Background Image */
 .Background {
+  min-height: 100vh;
   height: fit-content;
   padding-top: 3%;
   padding-bottom: 3%;
