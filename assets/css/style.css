@@ -105,6 +105,7 @@ h2 {
 }
 
 .portfolioThumb {
+  margin-bottom: 30px;
   height: 215px;
   object-fit: fill;
 }
