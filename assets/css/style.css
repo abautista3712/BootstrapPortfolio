@@ -104,10 +104,25 @@ h2 {
   padding: 0px 0px;
 }
 
+.thumbWrapper {
+  margin: 0px 0px;
+  padding: 0px 20px;
+}
+
 .portfolioThumb {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
+  padding: 0px;
   height: 215px;
-  object-fit: fill;
+  width: 100%;
+}
+
+.thumbBanner {
+  position: relative;
+  bottom: 20%;
+  width: 100%;
+  text-align: center;
+  background-color: #4aaaa5;
+  color: #fff;
 }
 
 #sticky-footer {
