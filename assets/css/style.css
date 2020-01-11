@@ -26,8 +26,9 @@ h1 {
   color: #fff;
 }
 
-.LinksBox {
+.linksBox {
   height: 100%;
+  text-align: center;
   align-items: center;
   justify-content: center;
 }
@@ -45,19 +46,19 @@ a:hover {
 
 .LinkAbout {
   text-align: center;
-  padding: 0px;
+  padding: 0px 10px;
 }
 
 .LinkPortfolio {
   text-align: center;
   border-right: solid;
   border-left: solid;
-  padding: 0px;
+  padding: 0px 10px;
 }
 
 .LinkContact {
   text-align: center;
-  padding: 0px;
+  padding: 0px 10px;
 }
 
 /* Background Image */
